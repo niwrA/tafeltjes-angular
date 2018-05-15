@@ -1,0 +1,10 @@
+.vraag {
+    font-size: 2em;
+}
+.resultaat {
+    font-size: 1.5em;
+}
+input, button {
+    font-size: 1.5em;
+    color: rgb(255, 0, 200);
+}
